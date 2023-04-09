@@ -1,7 +1,8 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//用于自动移动球拍进行碰撞测试
 public class TestMove : MonoBehaviour
 {
     private Transform Transform;
